@@ -20,6 +20,7 @@ const LandingPage = () => {
           <Button title="Rounded-sm" styles="rounded-sm" />
           <Button title="Rounded-md" styles="rounded-md" />
           <Button title="Rounded-full" styles="rounded-full" />
+          <Button title="Rounded LG Button" styles="text-base rounded-lg" />
         </div>
       </div>
 
